@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "accept",
   version: "1.0.0",
-  permission: 2,
+  permission: 0,
   credits: "NAYAN",
   prefix: true,
   description: "make friends via facebook id",
