@@ -4,7 +4,7 @@ const axios = require('axios');
 
 module.exports = {
   config: {
-    name: "bot",
+    name: "bby",
     version: "1.0.0",
     permission: 0,
     credits: "nayan",
